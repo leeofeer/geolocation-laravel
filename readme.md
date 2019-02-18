@@ -1,7 +1,7 @@
-Instalacion: 
-composer install
-php artisan migrate
-enjoy!
+Instalacion: <br>
+composer install <br>
+php artisan migrate<br>
+enjoy!<br>
 
 
 ## Laravel PHP Framework
