@@ -1,3 +1,9 @@
+Instalacion: 
+composer install
+php artisan migrate
+enjoy!
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
